@@ -1,0 +1,4 @@
+[core]
+    remote = origin
+['remote "origin"']
+    url = https://dagshub.com/aymenalimii4070/Ml_OPS_Movies.dvc
